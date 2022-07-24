@@ -3,4 +3,5 @@
 http://103.106.238.74/Data4/Movies/Hollywood/2022/RRR%20Hindi%20(2022)/RRR.Hindi.2022.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mp4
 
 
-#EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" parent-code="1234" audio-track="nl",Be1 Name http://channel.stream.address/to_be_placed/on_separate_line/123.ts 
+#EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" parent-code="1234" audio-track="nl",Be1 Name 
+http://channel.stream.address/to_be_placed/on_separate_line/123.ts 
