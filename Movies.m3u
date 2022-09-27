@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/b6/4c/a1b64c773e4f88e2ae4e08138baca5fa.jpg" group-title="TV NETWORK",Zee Bangla (2022)
+http://tv.ebox.live:8081/thunderbd/34/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIyIDc6NTM6NTcgQU0maGFzaF92YWx1ZT1BMlZFNHp4aGxab2dDaDJzNkRNZHNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+
 #EXTINF:-1 tvg-logo="http://103.106.238.74/Admin/main/images/tt8178634/poster/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg" group-title="Bollywood Movie", RRR (2022)
 http://103.106.238.74/Data4/Movies/Hollywood/2022/RRR%20Hindi%20(2022)/RRR.Hindi.2022.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mp4
 
