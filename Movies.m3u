@@ -3,7 +3,7 @@
 http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=4534865&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NDA6MjYgUE0maGFzaF92YWx1ZT1iU1BvamV2SHliVjdzYkMvVXpCNUF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://bdyellowpages.net/upload/download_(1)64.jpg" group-title="TV NETWORK",Jamuna Tv
-http://tv.ebox.live:8081/thunderbd/13/chunks.m3u8?nimblesessionid=4535160&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NDI6NTEgUE0maGFzaF92YWx1ZT1FV1Ztb3BIbXFZQmUxcnZWVmgzeWRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://tv.ebox.live:8081/thunderbd/13/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NTg6NTAgUE0maGFzaF92YWx1ZT1KYVV4T3dveE02QTd2WVJ4bTUvQ0NnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/b6/4c/a1b64c773e4f88e2ae4e08138baca5fa.jpg" group-title="TV NETWORK",Zee Bangla
 http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=4535523&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NDU6MjkgUE0maGFzaF92YWx1ZT02SWM5dkJnT0NxQ2xoT05abXRabTJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
