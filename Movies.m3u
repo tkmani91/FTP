@@ -5,6 +5,16 @@ http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=4534865&wmsAuth
 #EXTINF:-1 tvg-logo="https://bdyellowpages.net/upload/download_(1)64.jpg" group-title="TV NETWORK",Jamuna Tv
 http://tv.ebox.live:8081/thunderbd/13/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NTg6NTAgUE0maGFzaF92YWx1ZT1KYVV4T3dveE02QTd2WVJ4bTUvQ0NnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03d33e123989497.Y3JvcCw5MDAsNzAzLDAsOTg.jpg" group-title="TV NETWORK",Somoy Tv
+http://tv.ebox.live:8081/thunderbd/17/chunks.m3u8?nimblesessionid=4537501&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDU6MDI6MTcgUE0maGFzaF92YWx1ZT1EQmk5VWtuK0t6Znd5U1pSaXpJWUV3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gmWipAJmtIoQX0sbEocEe9bwp3FMsLBqVvnpr1pJ0I_El_euPBwDl7eM2T-NHEVFgXI" group-title="TV NETWORK",News 24 HD
+http://tv.ebox.live:8081/thunderbd/18/chunks.m3u8?nimblesessionid=4537839&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDU6MDU6MzYgUE0maGFzaF92YWx1ZT1tN1N5bDJTMm5WUE9hczZIcGx2bHd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="TV NETWORK",Maasranga Tv
+http://tv.ebox.live:8081/thunderbd/51/chunks.m3u8?nimblesessionid=4538132&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDU6MDk6MTAgUE0maGFzaF92YWx1ZT1maTZNMUJBNG90UVI5TXZqRWJHaWN3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/b6/4c/a1b64c773e4f88e2ae4e08138baca5fa.jpg" group-title="TV NETWORK",Zee Bangla
 http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=4535523&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NDU6MjkgUE0maGFzaF92YWx1ZT02SWM5dkJnT0NxQ2xoT05abXRabTJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
