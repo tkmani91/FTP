@@ -1,18 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="TV NETWORK",GTV HD
+http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=4534865&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NDA6MjYgUE0maGFzaF92YWx1ZT1iU1BvamV2SHliVjdzYkMvVXpCNUF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://bdyellowpages.net/upload/download_(1)64.jpg" group-title="TV NETWORK",Jamuna Tv
+http://tv.ebox.live:8081/thunderbd/13/chunks.m3u8?nimblesessionid=4535160&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NDI6NTEgUE0maGFzaF92YWx1ZT1FV1Ztb3BIbXFZQmUxcnZWVmgzeWRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/b6/4c/a1b64c773e4f88e2ae4e08138baca5fa.jpg" group-title="TV NETWORK",Zee Bangla
-http://tv.ebox.live:8081/thunderbd/34/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIyIDc6NTM6NTcgQU0maGFzaF92YWx1ZT1BMlZFNHp4aGxab2dDaDJzNkRNZHNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=4535523&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NDU6MjkgUE0maGFzaF92YWx1ZT02SWM5dkJnT0NxQ2xoT05abXRabTJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20210520142429" group-title="TV NETWORK",Star Jalsha
-http://103.16.24.54:8080/channel5/index.m3u8
+http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?nimblesessionid=4535547&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NDU6NTEgUE0maGFzaF92YWx1ZT1IbmtSL2wyY1JuQitWbnp4OE9MTDJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://103.106.238.74/Admin/main/images/tt1024943/poster/mHjZH6GKLdHQQDxHut5cm4EtoKu.jpg" group-title="Bollywood Movie", RRR (2022)
+#EXTINF:-1 tvg-logo="http://103.106.238.74/Admin/main/images/tt8178634/poster/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg" group-title="Bollywood Movie", RRR (2022)
 http://103.106.238.74/Data/Movies/Bollywood/2000_2010/Om%20Shanti%20Om%20%282007%29/Om%20Shanti%20Om%20%282007%29.mkv
 
-#EXTINF:-1 tvg-logo="http://103.106.238.74/Admin/main/images/tt8178634/poster/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg" group-title="Bollywood Movie", Om Shanti Om (2007)
+#EXTINF:-1 tvg-logo="http://103.106.238.74/Admin/main/images/tt1024943/poster/mHjZH6GKLdHQQDxHut5cm4EtoKu.jpg" group-title="Bollywood Movie", Om Shanti Om (2007)
 http://103.106.238.74/Data4/Movies/Hollywood/2022/RRR%20Hindi%20(2022)/RRR.Hindi.2022.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mp4
 
 #EXTINF:-1 tvg-logo="http://103.106.238.74/Admin/main/images/tt0807758/poster/3uOVfk9wy0h1D6R7t76j9Hn0QZ4.jpg" group-title="Bollywood Movie", Partner (2007)
