@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="TV NETWORK",GTV HD
-http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=4534865&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NDA6MjYgUE0maGFzaF92YWx1ZT1iU1BvamV2SHliVjdzYkMvVXpCNUF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://172.104.51.204:80/live-sports/tracks-v2a1/mono.m3u8?token=b9c523293549db2ba7503e12249c8920769e2fed-e1930542b99f40df9550ae7286ee790e-1670699442-1670688642
 
 #EXTINF:-1 tvg-logo="https://bdyellowpages.net/upload/download_(1)64.jpg" group-title="TV NETWORK",Jamuna Tv
 http://tv.ebox.live:8081/thunderbd/13/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NTg6NTAgUE0maGFzaF92YWx1ZT1KYVV4T3dveE02QTd2WVJ4bTUvQ0NnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
@@ -19,7 +19,7 @@ http://tv.ebox.live:8081/thunderbd/51/chunks.m3u8?nimblesessionid=4538132&wmsAut
 http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=4535523&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NDU6MjkgUE0maGFzaF92YWx1ZT02SWM5dkJnT0NxQ2xoT05abXRabTJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest?cb=20210520142429" group-title="TV NETWORK",Star Jalsha
-http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?nimblesessionid=4535547&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDQ6NDU6NTEgUE0maGFzaF92YWx1ZT1IbmtSL2wyY1JuQitWbnp4OE9MTDJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://iptv12k.com:35461/80203091402/213445/8562
 
 
 
