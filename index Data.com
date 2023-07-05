@@ -1,5 +1,3 @@
-# FTP
-MOVIE SERVER FOR CARNIVAL INTERNET BD
 <html>
 <body bgcolor="white">
 <h1>Index Data of Carnival</h1><hr><pre></a>
